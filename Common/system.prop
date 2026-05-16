@@ -1,0 +1,19 @@
+# SPPH Ultra Net - Gaming Clean Fork
+# System Properties for Network Optimization
+
+# DNS
+net.dns1=1.1.1.1
+net.dns2=1.0.0.1
+
+# TCP Buffers (Consistent with service.sh)
+net.tcp.buffersize.default=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.wifi=4096,87380,256960,4096,16384,256960
+net.tcp.buffersize.lte=4096,87380,256960,4096,16384,256960
+
+# WiFi
+wifi.scan_interval=60000
+wifi.power_save=0
+
+# Connection Tracking
+net.netfilter.nf_conntrack_max=65536
+net.netfilter.nf_conntrack_buckets=65536
