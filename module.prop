@@ -1,0 +1,6 @@
+id=Aurified-Net
+name=💰Aurified-Net
+version=vAU1
+versionCode=1
+author=Aurified.Dev
+description=💰Optimizes TCP Keepalive, IRQ Balancing, and Connection Tracking. Safe for Retroid Pocket 5. (BBR enabled if kernel supports it).
