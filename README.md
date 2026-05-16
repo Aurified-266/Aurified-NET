@@ -1,6 +1,6 @@
 # 🛡️ Aurified-NET - Retroid Pocket 5 Edition
 
-> **A secure, auditable rebuild of the original "SPPH ULTRA NET" Magisk module.**  
+> **A secure, auditable rebuild of the original "[SPPH ULTRA NET](https://github.com/SPPHOfficial/SPPH-ULTRA-NET)" Magisk module.**  
 > *Removes obfuscated code, eliminates security risks, and optimizes network latency for handheld gaming.*
 
 ![License](https://img.shields.io/badge/License-MIT-blue.svg)
@@ -55,7 +55,7 @@ To ensure stability and prevent errors, the following features from the original
 
 ## 📥 Installation
 
-1. **Download** the latest `.zip` release from the [Releases]() tab.
+1. **Download** the latest `.zip` release from the [Releases](https://github.com/Aurified-266/Aurified-NET/releases) tab.
 2. Open **Magisk Manager** (or KernelSU).
 3. Tap **Install** → **Select and Patch a File** (or **Install from Storage**).
 4. Select the downloaded `.zip`.
