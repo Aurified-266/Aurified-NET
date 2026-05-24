@@ -10,7 +10,7 @@
 
 ## ⚠️ Why This Fork Exists
 
-The original `SPPH-ULTRA-NET` module contained **heavily obfuscated code** (`eval`, variable concatenation) in its `service.sh` and `system.prop` files. This practice is a major security red flag, as it prevents users from auditing what the module actually does.
+The original `SPPH-ULTRA-NET` module contained **heavily obfuscated code** (`eval`, variable concatenation) in its `service.sh` and `system.prop` files. `**This practice is a major security red flag, as it prevents users from auditing what the module actually does**`.
 
 **This fork:**
 - ✅ **Removes all obfuscation:** Every line of code is transparent and readable.
